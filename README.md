@@ -2,4 +2,5 @@
 ### npm start
 Executa a aplicação
 
-### Necessário que o mongo esteja instalado na porta 27017
+### Para que funcione corretamente é necessário que o mongoDB esteja instalado na porta 27017
+Caso não esteja realizar a configuração no arquivo server.js
